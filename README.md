@@ -1,4 +1,4 @@
-#Clasificación de Patrones
+# Clasificación de Patrones
 | Patrones Creacionales | Patrones Estructurales | Patrones de Comportamiento |
 | --- | --- | --- |
 | Factory Method | Proxy| Command |
